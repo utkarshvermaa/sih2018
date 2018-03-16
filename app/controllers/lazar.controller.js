@@ -37,6 +37,9 @@ exports.regChild = function(req, res) {
   });
 };
 
+utkarshvermaa
+adminRights!
+
 exports.vaccinate = function(req, res){
   family.findById(req.params.p_id, function(err, ch) {
     if(err){

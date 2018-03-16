@@ -1,1 +1,1 @@
-# sih2018
+# Smart India Hackathon 2018 - Team Truffle
